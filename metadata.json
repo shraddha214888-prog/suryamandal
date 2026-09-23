@@ -1,0 +1,6 @@
+{
+  "name": "3D Solar System Kids - સૂર્યમંડળ",
+  "description": "પ્રાથમિક શાળાના બાળકો માટે 3D સૂર્યમંડળ વિજ્ઞાન એપ: સૂર્યથી અંતર, દરેક ગ્રહનું વજન, રંગ, ખાસિયત, તમારું વજન અને મજેદાર ક્વિઝ!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

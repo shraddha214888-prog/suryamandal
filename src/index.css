@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Baloo Bhai 2', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    letter-spacing: 0.01em;
+  }
+}
+
+/* Custom scrollbar for astronomy deck */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #090d16;
+}
+::-webkit-scrollbar-thumb {
+  background: #25334d;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3b5075;
+}
